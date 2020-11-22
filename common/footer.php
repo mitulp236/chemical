@@ -18,37 +18,30 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Name Of Comaany</h3>
-            <p>
-              Address<br>
-              Address<br>
-              Address <br><br>
-              <strong>Phone:</strong> 1234567890<br>
-              <strong>Email:</strong> info@example.com<br>
-            </p>
+        <div class="col-lg-3 col-md-6 footer-links">
+            <h3>Office</h3>
+                                   <p>Survey No: 243, Village - Dhanali,<br>
+                                        Taluka: Kadi (N.G.), District: Mehsana 382715.</p>
+                                   <p><i class="fa fa-envelope"></i> <a href="" class="">advatech@advatech.in</a></p>
+                                   <p><i class="fa fa-phone"></i> +91 2762 302761 / 62</p>
+
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
+            <h3>Work 1</h3>
+                                   <p>Survey No: 243, Village - Dhanali,<br>
+                                        Taluka: Kadi (N.G.), District: Mehsana 382715.</p>
+                                   <p><i class="fa fa-envelope"></i> <a href="" class="">advatech@advatech.in</a></p>
+                                   <p><i class="fa fa-phone"></i> +91 2762 302761 / 62</p>
+
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">sodium silicate liquid</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">sodium silicate liquid</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">sodium silicate solid</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">sodium silicate solid</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">sodium meta silicate</a></li>
-            </ul>
+            <h3>Work 2</h3>
+             <p>Survey No: 243, Village - Dhanali,<br>
+                                        Taluka: Kadi (N.G.), District: Mehsana 382715.</p>
+                                   <p><i class="fa fa-envelope"></i> <a href="" class="">advatech@advatech.in</a></p>
+                                   <p><i class="fa fa-phone"></i> +91 2762 302761 / 62</p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
